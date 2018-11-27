@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/GitHub/laksepriser",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
