@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1543269696551.000,
-    "dirty" : true,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
     "id" : "5A396445",
-    "lastKnownWriteTime" : 1543355340,
-    "last_content_update" : 1543356834292,
+    "lastKnownWriteTime" : 1543780948,
+    "last_content_update" : 1543780948885,
     "path" : "~/Documents/GitHub/laksepriser/app.R",
     "project_path" : "app.R",
     "properties" : {
-        "cursorPosition" : "13,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "38,45",
+        "scrollLine" : "18"
     },
     "relative_order" : 1,
     "source_on_save" : false,
